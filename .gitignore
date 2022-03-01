@@ -1,0 +1,6 @@
+target
+resources
+results
+*.iml
+.idea/
+.DS_store
