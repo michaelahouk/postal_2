@@ -4,3 +4,5 @@ results
 *.iml
 .idea/
 .DS_store
+dependency-reduced-pom.xml
+output.zip
